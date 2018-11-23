@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\obj\Debug\LoginApp.Form2.resources
+C:\Users\user\Desktop\WindowsFormApplication (1)\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\mytest\bin\Debug\LoginApp.exe
+C:\Users\Admin\Desktop\mytest\bin\Debug\LoginApp.pdb
+C:\Users\Admin\Desktop\mytest\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\mytest\obj\Debug\LoginApp.Form1.resources
+C:\Users\Admin\Desktop\mytest\obj\Debug\LoginApp.Form2.resources
+C:\Users\Admin\Desktop\mytest\obj\Debug\LoginApp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\mytest\obj\Debug\LoginApp.exe
+C:\Users\Admin\Desktop\mytest\obj\Debug\LoginApp.pdb
