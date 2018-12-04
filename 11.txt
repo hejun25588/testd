@@ -4,3 +4,4 @@ hello kitty:
   fix6325c
   fixc10b9
   fixda985
+  fixed485
